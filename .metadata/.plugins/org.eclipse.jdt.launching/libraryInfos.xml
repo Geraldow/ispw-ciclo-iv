@@ -2,6 +2,7 @@
 <libraryInfos>
     <libraryInfo home="D:\CERTUS 2024 -I\spring-tool-suite-4-4.22.0.RELEASE-e4.31.0-win32.win32.x86_64.self-extracting\sts-4.22.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143" version="17.0.10"/>
     <libraryInfo home="D:\Instaladores\openjdk-11+28_windows-x64_bin\jdk-11" version="11"/>
+    <libraryInfo home="C:\Users\FAIR\OneDrive\Documentos\ISPW\sts-4.22.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143" version="17.0.10"/>
     <libraryInfo home="C:\Program Files\Java\jdk1.8.0_51" version="1.8.0_51">
         <bootpath>
             <entry path="C:\Program Files\Java\jdk1.8.0_51\jre\lib\resources.jar"/>
@@ -41,4 +42,5 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="D:\CERTUS 2024 -I\spring-tool-suite-4-4.22.0.RELEASE-e4.31.0-win32.win32.x86_64.self-extracting\sts-4.22.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre" version="17.0.10"/>
+    <libraryInfo home="C:\Users\FAIR\OneDrive\Documentos\ISPW\sts-4.22.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre" version="17.0.10"/>
 </libraryInfos>
